@@ -1,2 +1,3 @@
 Nome: Felipe
 Email: lip.alexsander@uni9.edu.br
+Curso: Sistemas da Informação
